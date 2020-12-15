@@ -1,0 +1,21 @@
+1.prepare project for upload to server
+2.test activate environment
+3.test runserver
+4.create folder สำหรับ อัพโหลด project
+5.
+
+dvoplet = computer,project
+
+putty -> generate key ได้
+-public key(เอาไปให้ digital Ocean,aws,google cloud)  ยัดไว้ในบ้าน ยัด dvoplet
+-and private key**(เก็บไว้)
+
+access ประตู
+- sftp ต้องใช้ private key (upload file) (filzilla)
+- ssh ต้องใช้ private key (cmd)
+- เข้าเว็บ
+
+**ยังมีอีกก่อนเข้าถึงต้องผ่าน firwall ถ้าติดตั่ง
+
+https://www.youtube.com/watch?v=zC0tgw9FjV0&t=3144s
+52:24
